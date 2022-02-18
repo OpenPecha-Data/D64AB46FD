@@ -728,76 +728,76 @@ annotations:
     reference: ''
     span:
       start: 131482
-      end: 132786
+      end: 132785
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   b71ced57e8f04a6eae035e1767182200:
     imgnum: 241
     reference: ''
     span:
-      start: 132788
-      end: 134115
+      start: 132787
+      end: 134114
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   d00a89604c474dbf9dd7975fc7b21460:
     imgnum: 242
     reference: ''
     span:
-      start: 134117
-      end: 135443
+      start: 134116
+      end: 135442
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   174f7a77bbd54509a85052b28678ce40:
     imgnum: 243
     reference: ''
     span:
-      start: 135445
-      end: 136684
+      start: 135444
+      end: 136683
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   5520ba6109b6409f9b43fa638a6e3c91:
     imgnum: 244
     reference: ''
     span:
-      start: 136686
-      end: 137947
+      start: 136685
+      end: 137946
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   f8364fc38fae460793540f13e41f4b73:
     imgnum: 245
     reference: ''
     span:
-      start: 137949
-      end: 139307
+      start: 137948
+      end: 139306
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   525e7942c4ba4aad9f6ae7a39729e993:
     imgnum: 246
     reference: ''
     span:
-      start: 139309
-      end: 140680
+      start: 139308
+      end: 140679
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   9ce08c21f8b949a3bf7e30357e5edf3b:
     imgnum: 247
     reference: ''
     span:
-      start: 140682
-      end: 142016
+      start: 140681
+      end: 142015
     note_ref: 429cb5eea722452cb3f41402d57a70d9
   942301c971d4496592208daa7b5e113a:
     imgnum: 248
     reference: ''
     span:
-      start: 142018
-      end: 143325
+      start: 142017
+      end: 143324
     note_ref: 9fe7b90f90d241ac9c7bc2abd90953f6
   47e600604898401e9a6ba862eb8822da:
     imgnum: 249
     reference: ''
     span:
-      start: 143327
-      end: 144560
+      start: 143326
+      end: 144559
     note_ref: 9fe7b90f90d241ac9c7bc2abd90953f6
   aa522b710154487b9c5af76d89143768:
     imgnum: 250
     reference: ''
     span:
-      start: 144562
+      start: 144561
       end: 145891
     note_ref: 9fe7b90f90d241ac9c7bc2abd90953f6
   9a69533c0a5c41f494a6b1526526745f:
